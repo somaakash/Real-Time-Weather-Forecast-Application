@@ -68,12 +68,12 @@ The application will start on a local development server.
 
 ### Enter City
 
-![Enter City]<img width="1897" height="906" alt="1" src="https://github.com/user-attachments/assets/0f8c1481-7a4b-4e90-9c6f-584489e1cfc6" />
+<img width="1897" height="906" alt="1" src="https://github.com/user-attachments/assets/0f8c1481-7a4b-4e90-9c6f-584489e1cfc6" />
 
 
 ---
 
 ### Weather Information Display
 
-![Weather Result]<img width="1737" height="890" alt="2" src="https://github.com/user-attachments/assets/cffbd3eb-dafa-49f1-8416-6026ae80f064" />
+<img width="1737" height="890" alt="2" src="https://github.com/user-attachments/assets/cffbd3eb-dafa-49f1-8416-6026ae80f064" />
 
